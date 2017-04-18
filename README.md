@@ -1,2 +1,2 @@
 # puzzle-css
-* Recomposer le sublime tableau du peintre Kees Van Dongen "Maria",<br> en modifiant l'imbrication des éléments HTML et à l'aide des propriétés CSS ! ;)
+* Recomposer le sublime tableau du peintre Kees Van Dongen "Maria",<br>en plaçant les images à l'intérieur de la balise "main"  et à l'aide des propriétés CSS ! ;)
